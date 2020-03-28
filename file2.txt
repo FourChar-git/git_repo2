@@ -1,1 +1,5 @@
-This is file2.txt
+BNew changE
+D
+C
+Content change of file2
+MThis is file2.txt
