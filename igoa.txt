@@ -1,1 +1,1 @@
-ignore to commit this file
+This file will be ignored in commit
